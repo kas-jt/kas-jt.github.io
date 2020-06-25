@@ -14,3 +14,6 @@ Er sagte mal:
 
 > You will miss 100% of the shots
 > that you did not take
+
+<img src="https://www.colormetrics.info/images/logo_colormetrics.png">
+
