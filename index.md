@@ -9,3 +9,5 @@ Ganz fantastisch! Perfekt.
 * Eigenschaft 2
 * Eigenschaft 3
 * Eigenschaft 4
+
+<img src="https://www.colormetrics.info/images/logo_colormetrics.png">
